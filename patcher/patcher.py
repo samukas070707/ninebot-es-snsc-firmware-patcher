@@ -289,7 +289,7 @@ if __name__ == "__main__":
     cfw = FirmwarePatcher(data)
 
     cfw.kers_min_speed(6)
-    cfw.max_speed(32)
+    cfw.max_speed(45)
     #cfw.kers_dividor_6()
     cfw.motor_start_speed(6)
     #cfw.kers_dividor_2()
